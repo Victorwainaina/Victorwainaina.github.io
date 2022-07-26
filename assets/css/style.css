@@ -1062,7 +1062,7 @@ main {
 
 .project-post-item > a:hover .project-banner-box img { transform: scale(1.1); }
 
-.blog-content { padding: 15px; }
+.project-content { padding: 15px; }
 
 .project-meta {
   display: flex;
@@ -1494,9 +1494,9 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .project-img, .blog-banner-box { border-radius: 16px; }
 
-  .blog-posts-list { gap: 30px; }
+  .project-posts-list { gap: 30px; }
 
-  .blog-content { padding: 25px; }
+  .project-content { padding: 25px; }
 
 
 
